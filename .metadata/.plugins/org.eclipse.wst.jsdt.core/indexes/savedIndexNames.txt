@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\lecture\workspace_list\palette\palette\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+274249209.index
+2687631328.index
+1025655264.index
+1590447355.index
+3370458905.index
+865907268.index
