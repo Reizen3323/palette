@@ -1,7 +1,6 @@
 INDEX VERSION 1.131+C:\lecture\workspace_list\palette\palette\.metadata\.plugins\org.eclipse.jdt.core
 4276758565.index
 1062562814.index
-1025655264.index
 2458036738.index
 971378871.index
 2158205419.index
